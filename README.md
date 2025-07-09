@@ -1,2 +1,2 @@
 # go-socket
-Go Socket Example
+Go Web Socket Example
